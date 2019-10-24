@@ -27,9 +27,9 @@
         Name: <input name="name" type="text" required/><br /><br />
         Email: <input name="email" type="email" required/><br />
         <p>What are your categories of interest? (Select as many as you'd like below)</p>
-        <input name="category1" type="checkbox" value="industry" />Industry<br />
-        <input name="category2" type="checkbox" value="technical" />Technical<br />
-        <input name="category3" type="checkbox" value="career" />Career<br />
+        <input name="industry" type="checkbox" value="industry" />Industry<br />
+        <input name="technical" type="checkbox" value="technical" />Technical<br />
+        <input name="career" type="checkbox" value="career" />Career<br />
         <p>What is your role</p>
         <select name="role">
           <option value="writer">Writer</option>
